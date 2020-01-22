@@ -1,4 +1,4 @@
-# ds-mod3-project
+# Stroke Prediction Project
 
 Thoa Shook and Christiaan Defaux
 
